@@ -1,4 +1,4 @@
-# Route-Orangepi
+# Route-Orangepi-OpenWrt
 ###### 根据 lean 大神的代码库（[https://github.com/coolsnowwolf/lede](https://github.com/coolsnowwolf/lede)）编译的橘橙派的OpenWrt的路由固件
 ###### 在网上找了好久没找到这样的固件只能根据大神的源码自己编译
 ###### 经过搭建ubuntu服务器加上编译时间差不多半天的时间终于完事（其实折腾了好几天～～～香菇）
